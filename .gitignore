@@ -1,0 +1,13 @@
+node_modules/
+database/*.db-shm
+database/*.db-wal
+database/*.log
+database/backups/
+database/.verify*
+server.pid
+logs/
+docs/test-output/
+.artifact-work/
+.tmp-py/
+tmp-source-products.xls
+outputs/
